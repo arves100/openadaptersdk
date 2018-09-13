@@ -1,0 +1,6 @@
+*.o
+build/
+*.map
+*.sym
+*.cgb
+*.gbc
