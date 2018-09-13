@@ -1,7 +1,12 @@
 # Mobile Adapter GB Comunication Library
 
-Tested with BGB and GBDK 3-2.95-3
+A library that allows C/C++ GBC games to comuniucate with the Mobile Adapter GB.
+
+Nintendo has recycle the whole comunication from the GameBoy Printer, the same protocol
+used in the printer works fine with the adapter.
+
+Tested with BGB (Mobile Adapter Script) and GBDK 3-2.95-3
 
 ### Special thanks
-- [http://shen.mansell.tripod.com/games/gameboy/gameboy.html](Shen's GameBoy Print library)
-- [https://forums.glitchcity.info/index.php?topic=7509.0](Hacky Adapter GB file explaining the protocol)
+- [http://shen.mansell.tripod.com/games/gameboy/gameboy.html](Shen's GameBoy Printer library, used as comm.s)
+- [https://forums.glitchcity.info/index.php?topic=7509.0](Hacky's Adapter GB explainion of the protocol)
