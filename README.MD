@@ -8,5 +8,5 @@ used in the printer works fine with the adapter.
 Tested with BGB (Mobile Adapter Script) and GBDK 3-2.95-3
 
 ### Special thanks
-- (http://shen.mansell.tripod.com/games/gameboy/gameboy.html)[Shen's GameBoy Printer library, used as comm.s]
-- (https://forums.glitchcity.info/index.php?topic=7509.0)[Hacky's Adapter GB explainion of the protocol]
+- [Shen's GameBoy Printer library, used as comm.s](http://shen.mansell.tripod.com/games/gameboy/gameboy.html)
+- [Hacky's Adapter GB explainion of the protocol](https://forums.glitchcity.info/index.php?topic=7509.0)
