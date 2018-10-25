@@ -176,7 +176,7 @@ int mbgb_start_comunication()
 	unsigned char command = 0;
 	unsigned char length = 0;
 	
-	SendPrinterByte(0x4B);
+	//SendPrinterByte(0x4B);
 	
 	_send_command(0x10, 8, "NINTENDO");
 
@@ -211,7 +211,7 @@ void mbgb_close_comunication()
 {
 	unsigned char command = 0, length = 0;
 	_send_command(0x11, 0, NULL);
-	_recv_command(&command, &length, NULL, 0);
+	//_recv_command(&command, &length, NULL, 0);
 }
 
 int mbgb_is_line_busy()
